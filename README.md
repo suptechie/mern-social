@@ -1,5 +1,5 @@
 # MERN Social 2.0
-- *Looking for the first edition code? [Check here](https://github.com/shamahoque/mern-social/tree/master)*
+- *Looking for the first edition code? [Check here](https://github.com/suptechie/mern-social/tree/master)*
 
 A simple social media application with users, posts, likes and comments - developed using React, Node, Express and MongoDB. 
 
@@ -22,12 +22,12 @@ A simple social media application with users, posts, likes and comments - develo
 ---- 
 ### More applications built using this stack
 
-* [MERN Skeleton](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Classroom](https://github.com/shamahoque/mern-classroom)
-* [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/second-edition)
-* [MERN Expense Tracker](https://github.com/shamahoque/mern-expense-tracker)
-* [MERN Mediastream](https://github.com/shamahoque/mern-mediastream/tree/second-edition)
-* [MERN VR Game](https://github.com/shamahoque/mern-vrgame/tree/second-edition)
+* [MERN Skeleton](https://github.com/suptechie/mern-social/tree/second-edition)
+* [MERN Classroom](https://github.com/suptechie/mern-classroom)
+* [MERN Marketplace](https://github.com/suptechie/mern-marketplace/tree/second-edition)
+* [MERN Expense Tracker](https://github.com/suptechie/mern-expense-tracker)
+* [MERN Mediastream](https://github.com/suptechie/mern-mediastream/tree/second-edition)
+* [MERN VR Game](https://github.com/suptechie/mern-vrgame/tree/second-edition)
 
 Learn more at [mernbook.com](http://www.mernbook.com/)
 
